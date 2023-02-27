@@ -15,6 +15,7 @@
   * 准系统/平台(机箱+主板+双散热器+550W单电源+6GB 2308直通卡)支持12盘直通（集成4个千兆）*1
   * Price HKD1300~
   * [Link](https://item.taobao.com/item.htm?id=682733570347&ns=1&abbucket=11#detail)
+  * [文檔]( https://drive.google.com/file/d/1yhm1X5t1UPvbGqu9TlrnHUjK5QTnESCd/view?usp=sharing)
 * Extra PSU
 
   * LITEON 浪潮 SA5212 NF5270 5280 8480 M4 M5 550W电源PS-2551-5L *1
